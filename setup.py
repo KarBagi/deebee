@@ -8,6 +8,6 @@ setuptools.setup(
   name="deebee",
   version="0.0.1",
   description="Interface for a database",
-  url="https://github.com/damianzim/deebee",
+  url="https://github.com/KarBagi/deebee",
   packages=setuptools.find_packages(),
 )
